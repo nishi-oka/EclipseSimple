@@ -20,6 +20,4 @@
 
        └─  .gitignore
        
-       └─  ValuableAndIf_else.class
-       
        └─  ValuableAndIf_else.java
