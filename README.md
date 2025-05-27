@@ -14,8 +14,6 @@
 
 │
 
-├─valuableAndIfelse
-
 └─────────ValuableAndIf_else  (データの入力と条件分岐【課題2】 (データの入力と条件分岐【課題3】)
 
        └─  .gitignore
