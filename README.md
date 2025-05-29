@@ -23,9 +23,7 @@ src
 
 │       └─ test.java
 
-│
-
-└─────────ValuableAndIf_else  (データの入力と条件分岐【課題2】【課題3】)
+└─── ValuableAndIf_else  (データの入力と条件分岐【課題2】【課題3】)
 
        └─  .gitignore
        
